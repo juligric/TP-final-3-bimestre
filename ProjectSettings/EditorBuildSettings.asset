@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Animated_Character_Navigation_Final.unity
+    guid: 4b49219a45d9b6a4f97cd604b66abd8a
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2140f586f8c9ed347a820f6cbd4d95c7
   m_configObjects: {}
